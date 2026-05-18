@@ -28,6 +28,9 @@
         <mxCell id="jcMS2qIGCt-1cQWdu1mV-12" value="DWH" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;strokeColor=#FFFFFF;fillColor=#000000;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="600" y="260" width="160" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="jcMS2qIGCt-1cQWdu1mV-13" value="SAP" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;strokeColor=#FFFFFF;fillColor=#000000;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="80" y="294" width="70" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
