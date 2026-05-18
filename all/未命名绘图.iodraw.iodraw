@@ -17,7 +17,13 @@
           <mxGeometry x="100" y="240" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jcMS2qIGCt-1cQWdu1mV-6" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;strokeColor=#FFFFFF;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="110" y="110" width="60" height="60" as="geometry" />
+          <mxGeometry x="290" y="30" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jcMS2qIGCt-1cQWdu1mV-7" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;strokeColor=#FFFFFF;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="290" y="120" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jcMS2qIGCt-1cQWdu1mV-8" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;strokeColor=#FFFFFF;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="130" y="130" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
