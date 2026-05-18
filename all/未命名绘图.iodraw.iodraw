@@ -10,7 +10,7 @@
         <mxCell id="jcMS2qIGCt-1cQWdu1mV-6" value="TEMP DWH" style="strokeWidth=2;shape=mxgraph.flowchart.database;strokeColor=#FFFFFF;fillColor=#000000;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="332" y="30" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jcMS2qIGCt-1cQWdu1mV-7" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;strokeColor=#FFFFFF;fillColor=#000000;" vertex="1" parent="1">
+        <mxCell id="jcMS2qIGCt-1cQWdu1mV-7" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;strokeColor=#FFFFFF;fillColor=#000000;fontColor=none;noLabel=1;" vertex="1" parent="1">
           <mxGeometry x="332" y="120" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jcMS2qIGCt-1cQWdu1mV-8" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;strokeColor=#FFFFFF;fillColor=#000000;" vertex="1" parent="1">
