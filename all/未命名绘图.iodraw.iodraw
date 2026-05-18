@@ -37,12 +37,6 @@
         <mxCell id="jcMS2qIGCt-1cQWdu1mV-25" value="TEMP DWH1" style="strokeWidth=2;shape=mxgraph.flowchart.database;strokeColor=#FFFFFF;fillColor=#000000;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=none;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="332" y="530" width="68" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jcMS2qIGCt-1cQWdu1mV-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="150" as="sourcePoint" />
-            <mxPoint x="270" y="100" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
