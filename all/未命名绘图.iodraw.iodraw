@@ -7,7 +7,7 @@
         <mxCell id="jcMS2qIGCt-1cQWdu1mV-1" value="SAP" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;strokeColor=#FFFFFF;fillColor=#000000;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="80" y="110" width="70" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jcMS2qIGCt-1cQWdu1mV-6" value="TEMP DWH1" style="strokeWidth=2;shape=mxgraph.flowchart.database;strokeColor=#FFFFFF;fillColor=#000000;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="jcMS2qIGCt-1cQWdu1mV-6" value="TEMP DWH1" style="strokeWidth=2;shape=mxgraph.flowchart.database;strokeColor=#FFFFFF;fillColor=#000000;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=none;whiteSpace=wrap;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="332" y="30" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jcMS2qIGCt-1cQWdu1mV-12" value="DWH" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;strokeColor=#FFFFFF;fillColor=#000000;fontColor=#FFFFFF;" vertex="1" parent="1">
