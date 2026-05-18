@@ -219,8 +219,11 @@
         <mxCell id="jcMS2qIGCt-1cQWdu1mV-66" value="&lt;font color=&quot;#ffffff&quot;&gt;公司5x&#39;x&#39;x&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="336" y="354" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jcMS2qIGCt-1cQWdu1mV-67" value="&lt;font color=&quot;#ffffff&quot;&gt;公司5x&#39;x&#39;x&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="346" y="364" width="60" height="30" as="geometry" />
+        <mxCell id="jcMS2qIGCt-1cQWdu1mV-67" value="&lt;font color=&quot;#ffffff&quot;&gt;公司6x&#39;x&#39;x&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="332" y="467" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jcMS2qIGCt-1cQWdu1mV-69" value="&lt;font color=&quot;#ffffff&quot;&gt;公司6x&#39;x&#39;x&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="342" y="477" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
