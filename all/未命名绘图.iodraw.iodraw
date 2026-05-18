@@ -37,7 +37,7 @@
         <mxCell id="jcMS2qIGCt-1cQWdu1mV-27" value="DWH" style="shape=datastore;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#000000;fontColor=#FFFFFF;fontStyle=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="620" y="274" width="150" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="jcMS2qIGCt-1cQWdu1mV-28" value="DWHN" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.parallel_mode;pointerEvents=1" vertex="1" parent="1">
+        <mxCell id="jcMS2qIGCt-1cQWdu1mV-28" value="DWHN" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.parallel_mode;pointerEvents=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="320" y="180" width="95" height="40" as="geometry" />
         </mxCell>
       </root>
