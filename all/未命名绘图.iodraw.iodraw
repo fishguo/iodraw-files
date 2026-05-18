@@ -35,7 +35,7 @@
           <mxGeometry x="332" y="429" width="68" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jcMS2qIGCt-1cQWdu1mV-25" value="TEMP DWH1" style="strokeWidth=2;shape=mxgraph.flowchart.database;strokeColor=#FFFFFF;fillColor=#000000;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=none;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="332" y="530" width="68" height="50" as="geometry" />
+          <mxGeometry x="332" y="534" width="68" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
