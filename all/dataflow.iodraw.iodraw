@@ -210,11 +210,11 @@
         <mxCell id="jcMS2qIGCt-1cQWdu1mV-63" value="&lt;font color=&quot;#ffffff&quot;&gt;公司2x&#39;x&#39;x&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="336" y="35" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jcMS2qIGCt-1cQWdu1mV-64" value="&lt;font color=&quot;#ffffff&quot;&gt;公司3x&#39;x&#39;x&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="jcMS2qIGCt-1cQWdu1mV-64" value="&lt;font color=&quot;#ffffff&quot;&gt;公司4x&#39;x&#39;x&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="336" y="202" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jcMS2qIGCt-1cQWdu1mV-65" value="&lt;font color=&quot;#ffffff&quot;&gt;公司3x&#39;x&#39;x&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="346" y="125" width="60" height="30" as="geometry" />
+          <mxGeometry x="336" y="115" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
