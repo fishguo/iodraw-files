@@ -23,7 +23,10 @@
           <mxGeometry x="290" y="120" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jcMS2qIGCt-1cQWdu1mV-8" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;strokeColor=#FFFFFF;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="130" y="130" width="60" height="60" as="geometry" />
+          <mxGeometry x="290" y="240" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jcMS2qIGCt-1cQWdu1mV-9" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;strokeColor=#FFFFFF;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="140" y="140" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
