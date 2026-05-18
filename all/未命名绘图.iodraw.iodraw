@@ -22,6 +22,33 @@
         <mxCell id="jcMS2qIGCt-1cQWdu1mV-15" value="DP" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;strokeColor=#FFFFFF;fillColor=#000000;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="80" y="524" width="70" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="jcMS2qIGCt-1cQWdu1mV-17" value="TEMP DWH1" style="strokeWidth=2;shape=mxgraph.flowchart.database;strokeColor=#FFFFFF;fillColor=#000000;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=none;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="342" y="40" width="68" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jcMS2qIGCt-1cQWdu1mV-18" value="TEMP DWH1" style="strokeWidth=2;shape=mxgraph.flowchart.database;strokeColor=#FFFFFF;fillColor=#000000;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=none;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="352" y="50" width="68" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jcMS2qIGCt-1cQWdu1mV-19" value="TEMP DWH1" style="strokeWidth=2;shape=mxgraph.flowchart.database;strokeColor=#FFFFFF;fillColor=#000000;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=none;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="362" y="60" width="68" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jcMS2qIGCt-1cQWdu1mV-20" value="TEMP DWH1" style="strokeWidth=2;shape=mxgraph.flowchart.database;strokeColor=#FFFFFF;fillColor=#000000;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=none;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="372" y="70" width="68" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jcMS2qIGCt-1cQWdu1mV-21" value="TEMP DWH1" style="strokeWidth=2;shape=mxgraph.flowchart.database;strokeColor=#FFFFFF;fillColor=#000000;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=none;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="382" y="80" width="68" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jcMS2qIGCt-1cQWdu1mV-22" value="TEMP DWH1" style="strokeWidth=2;shape=mxgraph.flowchart.database;strokeColor=#FFFFFF;fillColor=#000000;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=none;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="392" y="90" width="68" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jcMS2qIGCt-1cQWdu1mV-23" value="TEMP DWH1" style="strokeWidth=2;shape=mxgraph.flowchart.database;strokeColor=#FFFFFF;fillColor=#000000;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=none;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="402" y="100" width="68" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jcMS2qIGCt-1cQWdu1mV-24" value="TEMP DWH1" style="strokeWidth=2;shape=mxgraph.flowchart.database;strokeColor=#FFFFFF;fillColor=#000000;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=none;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="412" y="110" width="68" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jcMS2qIGCt-1cQWdu1mV-25" value="TEMP DWH1" style="strokeWidth=2;shape=mxgraph.flowchart.database;strokeColor=#FFFFFF;fillColor=#000000;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=none;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="422" y="120" width="68" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
